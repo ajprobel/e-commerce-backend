@@ -20,7 +20,7 @@ DB_PASSWORD='[yourPasswordHere]'
 
 ## Usage
 
-Please watch the video demonstration found [here!](https://drive.google.com/file/d/1vpHk6OfrxN45TLmKAzYXq7vfaGmI0o0v/view?usp=sharing)
+Please watch the video demonstration found [here!](https://drive.google.com/file/d/1ABIOp7sbomU-V-FfYQBsNwa2z-RS-EtB/view?usp=sharing)
 
 Start by starting the server:
 * run `npm start`
